@@ -4,7 +4,7 @@ Curso da Alura voltado para o ensinamento de JavaScript, apresentando como funci
 
 ##Screenshots
 
-
+![Imagem do Projeto](images/screenshot.png)
 
 ## Principais aprendizados
 
@@ -13,5 +13,6 @@ Curso da Alura voltado para o ensinamento de JavaScript, apresentando como funci
 
 ## Links
 
-Deploy:
-Link do curso:
+Deploy: <https://iurygon.github.io/Alura_Midi/>
+
+Link do curso: <https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas>
