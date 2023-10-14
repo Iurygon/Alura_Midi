@@ -2,7 +2,7 @@
 
 Curso da Alura voltado para o ensinamento de JavaScript, apresentando como funciona a linguagem e como integrá-la com o HTML e CSS. Consiste em um teclado em que cada tecla emite um som ao ser clicado.
 
-##Screenshots
+## Screenshots
 
 ![Imagem do Projeto](images/screenshot.png)
 
